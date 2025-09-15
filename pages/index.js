@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Texto inicial Projeto</h1>;
+    return <h1>Texto inicial Projeto! Começando... </h1>;
 }
 
 
